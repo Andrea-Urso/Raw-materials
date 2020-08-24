@@ -1,0 +1,95 @@
+"","Taxid","Name","OTU","Perc"
+"69",888828,"Haemophilus parainfluenzae ATCC 33392",1309,46.6334164588529
+"20",28037,"Streptococcus mitis",519,18.489490559316
+"72",889204,"Streptococcus infantis ATCC 700779",448,15.9600997506234
+"37",113107,"Streptococcus australis",174,6.19878874242964
+"64",760570,"Streptococcus parasanguinis ATCC 15912",41,1.46063412896331
+"68",888807,"Streptococcus sanguinis SK1 = NCTC 7863",40,1.42500890630566
+"13",1313,"Streptococcus pneumoniae",28,0.997506234413965
+"61",655813,"Streptococcus oralis ATCC 35037",25,0.89063056644104
+"79",1234680,"Streptococcus rubneri",24,0.855005343783399
+"86",1458253,"Streptococcus oralis subsp. dentisani",21,0.748129675810474
+"56",490188,"Hydrocarboniphaga daqingensis",17,0.605628785179907
+"3",720,"Actinobacillus lignieresii",8,0.285001781261133
+"41",150055,"Streptococcus lutetiensis",8,0.285001781261133
+"5",1282,"Staphylococcus epidermidis",7,0.249376558603491
+"28",43675,"Rothia mucilaginosa",7,0.249376558603491
+"87",1469425,"Streptococcus tangierensis",7,0.249376558603491
+"53",257758,"Streptococcus pseudopneumoniae",6,0.21375133594585
+"25",29391,"Gemella morbillorum",5,0.178126113288208
+"6",1302,"Streptococcus gordonii",4,0.142500890630566
+"88",1469428,"Streptococcus cameli",4,0.142500890630566
+"19",1346,"Streptococcus iniae",3,0.106875667972925
+"23",29388,"Staphylococcus capitis",3,0.106875667972925
+"44",176598,"Pseudoxanthomonas taiwanensis",3,0.106875667972925
+"70",888833,"Streptococcus australis ATCC 700641",3,0.106875667972925
+"71",889201,"Streptococcus cristatus ATCC 51100",3,0.106875667972925
+"76",1033854,"Thioalkalivibrio sulfidiphilus",3,0.106875667972925
+"90",1547447,"Streptococcus oricebi",3,0.106875667972925
+"7",1304,"Streptococcus salivarius",2,0.0712504453152832
+"9",1307,"Streptococcus suis",2,0.0712504453152832
+"10",1308,"Streptococcus thermophilus",2,0.0712504453152832
+"15",1334,"Streptococcus dysgalactiae",2,0.0712504453152832
+"36",102886,"Streptococcus didelphis",2,0.0712504453152832
+"42",157339,"Actinobacillus arthritidis",2,0.0712504453152832
+"43",165758,"Streptococcus gallinaceus",2,0.0712504453152832
+"45",184250,"Streptococcus constellatus subsp. pharyngis",2,0.0712504453152832
+"50",243629,"Hydrocarboniphaga effusa",2,0.0712504453152832
+"51",249189,"Enterococcus hermanniensis",2,0.0712504453152832
+"62",684066,"Streptococcus lactarius",2,0.0712504453152832
+"65",764299,"Streptococcus ictaluri 707-05",2,0.0712504453152832
+"66",888745,"Streptococcus agalactiae ATCC 13813",2,0.0712504453152832
+"74",985250,"Sinimarinibacterium flocculans",2,0.0712504453152832
+"84",1349416,"Streptococcus saliviloxodontae",2,0.0712504453152832
+"91",1581472,"Streptococcus panodentis",2,0.0712504453152832
+"93",1888195,"Streptococcus himalayensis",2,0.0712504453152832
+"1",484,"Neisseria flavescens",1,0.0356252226576416
+"2",714,"Aggregatibacter actinomycetemcomitans",1,0.0356252226576416
+"4",760,"Pasteurella stomatis",1,0.0356252226576416
+"8",1305,"Streptococcus sanguinis",1,0.0356252226576416
+"11",1309,"Streptococcus mutans",1,0.0356252226576416
+"12",1310,"Streptococcus sobrinus",1,0.0356252226576416
+"14",1326,"Streptococcus acidominimus",1,0.0356252226576416
+"16",1335,"Streptococcus equinus",1,0.0356252226576416
+"17",1337,"Streptococcus hyointestinalis",1,0.0356252226576416
+"18",1340,"Streptococcus porcinus",1,0.0356252226576416
+"21",28091,"Neisseria weaveri",1,0.0356252226576416
+"22",28449,"Neisseria subflava",1,0.0356252226576416
+"24",29389,"Streptococcus alactolyticus",1,0.0356252226576416
+"26",29448,"Bradyrhizobium elkanii",1,0.0356252226576416
+"27",33053,"Neisseria perflava",1,0.0356252226576416
+"29",56448,"Xanthomonas arboricola",1,0.0356252226576416
+"30",56456,"Xanthomonas melonis",1,0.0356252226576416
+"31",59310,"Streptococcus macedonicus",1,0.0356252226576416
+"32",76860,"Streptococcus constellatus",1,0.0356252226576416
+"33",78544,"Pseudomonas gessardii",1,0.0356252226576416
+"34",84531,"Lysobacter antibioticus",1,0.0356252226576416
+"35",85403,"Mannheimia ruminalis",1,0.0356252226576416
+"38",119224,"Streptococcus phocae",1,0.0356252226576416
+"39",119602,"Streptococcus dysgalactiae subsp. equisimilis",1,0.0356252226576416
+"40",149015,"Streptococcus hyovaginalis",1,0.0356252226576416
+"46",190148,"Bradyrhizobium paxllaeri",1,0.0356252226576416
+"47",195709,"Xanthomonas arboricola pv. juglandis",1,0.0356252226576416
+"48",202952,"Acinetobacter gerneri",1,0.0356252226576416
+"49",225144,"Oceanisphaera litoralis",1,0.0356252226576416
+"52",254785,"Streptococcus halichoeri",1,0.0356252226576416
+"54",280333,"Bradyrhizobium pachyrhizi",1,0.0356252226576416
+"55",487316,"Acinetobacter soli",1,0.0356252226576416
+"57",561720,"Dethiosulfovibrio salsuginis",1,0.0356252226576416
+"58",630921,"Bradyrhizobium embrapense",1,0.0356252226576416
+"59",637911,"Actinobacillus minor NM305",1,0.0356252226576416
+"60",653930,"Pseudomonas bauzanensis",1,0.0356252226576416
+"63",747656,"Streptococcus danieliae",1,0.0356252226576416
+"67",888746,"Streptococcus peroris ATCC 700780",1,0.0356252226576416
+"73",889206,"Streptococcus vestibularis ATCC 49124",1,0.0356252226576416
+"75",1000570,"Streptococcus anginosus SK52 = DSM 20563",1,0.0356252226576416
+"77",1052258,"Arenimonas daechungensis",1,0.0356252226576416
+"78",1229656,"Acidibacter ferrireducens",1,0.0356252226576416
+"80",1242948,"Fuchsiella ferrireducens",1,0.0356252226576416
+"81",1282664,"Streptococcus oralis subsp. tigurinus AZ_3a",1,0.0356252226576416
+"82",1302863,"Streptococcus cristatus AS 1.3089",1,0.0356252226576416
+"83",1335757,"Spiribacter curvatus",1,0.0356252226576416
+"85",1452742,"Streptomyces burgazadensis",1,0.0356252226576416
+"89",1543375,"Aeromonas finlandiensis",1,0.0356252226576416
+"92",1640685,"Enterococcus massiliensis",1,0.0356252226576416
+"94",1914305,"Desulfurobacterium indicum",1,0.0356252226576416

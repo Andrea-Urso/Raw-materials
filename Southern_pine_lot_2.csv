@@ -1,0 +1,89 @@
+"","Taxid","Name","OTU","Perc"
+"61",888828,"Haemophilus parainfluenzae ATCC 33392",209,31.6666666666667
+"64",889204,"Streptococcus infantis ATCC 700779",72,10.9090909090909
+"14",1304,"Streptococcus salivarius",65,9.84848484848485
+"29",33053,"Neisseria perflava",62,9.39393939393939
+"5",488,"Neisseria mucosa",16,2.42424242424242
+"81",1469425,"Streptococcus tangierensis",13,1.96969696969697
+"20",28037,"Streptococcus mitis",11,1.66666666666667
+"36",113107,"Streptococcus australis",11,1.66666666666667
+"54",490188,"Hydrocarboniphaga daqingensis",11,1.66666666666667
+"12",1290,"Staphylococcus hominis",10,1.51515151515152
+"17",1747,"Cutibacterium acnes",9,1.36363636363636
+"39",150055,"Streptococcus lutetiensis",9,1.36363636363636
+"41",176598,"Pseudoxanthomonas taiwanensis",9,1.36363636363636
+"6",496,"Neisseria macacae",8,1.21212121212121
+"76",1349416,"Streptococcus saliviloxodontae",7,1.06060606060606
+"4",484,"Neisseria flavescens",6,0.909090909090909
+"74",1302863,"Streptococcus cristatus AS 1.3089",6,0.909090909090909
+"75",1349415,"Streptococcus loxodontisalivarius",6,0.909090909090909
+"35",102886,"Streptococcus didelphis",5,0.757575757575758
+"3",483,"Neisseria cinerea",4,0.606060606060606
+"11",1283,"Staphylococcus haemolyticus",4,0.606060606060606
+"23",28449,"Neisseria subflava",4,0.606060606060606
+"59",760570,"Streptococcus parasanguinis ATCC 15912",4,0.606060606060606
+"71",1229656,"Acidibacter ferrireducens",4,0.606060606060606
+"72",1234680,"Streptococcus rubneri",4,0.606060606060606
+"22",28091,"Neisseria weaveri",3,0.454545454545455
+"25",29388,"Staphylococcus capitis",3,0.454545454545455
+"26",29391,"Gemella morbillorum",3,0.454545454545455
+"28",33028,"Staphylococcus saccharolyticus",3,0.454545454545455
+"30",38284,"Corynebacterium accolens",3,0.454545454545455
+"63",889201,"Streptococcus cristatus ATCC 51100",3,0.454545454545455
+"78",1436998,"Nitrospira lenta",3,0.454545454545455
+"80",1458253,"Streptococcus oralis subsp. dentisani",3,0.454545454545455
+"2",470,"Acinetobacter baumannii",2,0.303030303030303
+"7",648,"Aeromonas caviae",2,0.303030303030303
+"8",730,"[Haemophilus] ducreyi",2,0.303030303030303
+"10",1282,"Staphylococcus epidermidis",2,0.303030303030303
+"15",1308,"Streptococcus thermophilus",2,0.303030303030303
+"24",29380,"Staphylococcus caprae",2,0.303030303030303
+"58",684066,"Streptococcus lactarius",2,0.303030303030303
+"68",1077965,"Staphylococcus petrasii subsp. jettensis",2,0.303030303030303
+"77",1381557,"Sulfurisoma sediminicola",2,0.303030303030303
+"79",1452742,"Streptomyces burgazadensis",2,0.303030303030303
+"83",1572762,"Xylanibacillus composti",2,0.303030303030303
+"88",1914305,"Desulfurobacterium indicum",2,0.303030303030303
+"1",297,"Hydrogenophilus thermoluteolus",1,0.151515151515152
+"9",920,"Acidithiobacillus ferrooxidans",1,0.151515151515152
+"13",1294,"Staphylococcus muscae",1,0.151515151515152
+"16",1724,"Corynebacterium renale",1,0.151515151515152
+"18",1752,"Propionibacterium freudenreichii subsp. shermanii",1,0.151515151515152
+"19",28035,"Staphylococcus lugdunensis",1,0.151515151515152
+"21",28087,"Legionella sainthelensi",1,0.151515151515152
+"27",29489,"Aeromonas enteropelogenes",1,0.151515151515152
+"31",40216,"Acinetobacter radioresistens",1,0.151515151515152
+"32",42253,"Nitrospira moscoviensis",1,0.151515151515152
+"33",59310,"Streptococcus macedonicus",1,0.151515151515152
+"34",84135,"Gemella sanguinis",1,0.151515151515152
+"37",145393,"Staphylococcus hominis subsp. novobiosepticus",1,0.151515151515152
+"38",149015,"Streptococcus hyovaginalis",1,0.151515151515152
+"40",165758,"Streptococcus gallinaceus",1,0.151515151515152
+"42",202948,"Actinobacillus equuli subsp. haemolyticus",1,0.151515151515152
+"43",202952,"Acinetobacter gerneri",1,0.151515151515152
+"44",243629,"Hydrocarboniphaga effusa",1,0.151515151515152
+"45",249189,"Enterococcus hermanniensis",1,0.151515151515152
+"46",256326,"Psychrobacter arenosus",1,0.151515151515152
+"47",262077,"Marinobacter daepoensis",1,0.151515151515152
+"48",269666,"Streptococcus marimammalium",1,0.151515151515152
+"49",314275,"Alteromonas mediterranea",1,0.151515151515152
+"50",319942,"Staphylococcus petrasii subsp. croceilyticus",1,0.151515151515152
+"51",324617,"Aeromonas tecta",1,0.151515151515152
+"52",415229,"Pseudoxanthomonas spadix",1,0.151515151515152
+"53",466109,"Biostraticola tofi",1,0.151515151515152
+"55",502790,"Aeromonas diversa",1,0.151515151515152
+"56",640030,"Neisseria zalophi",1,0.151515151515152
+"57",655813,"Streptococcus oralis ATCC 35037",1,0.151515151515152
+"60",887327,"Kingella kingae ATCC 23330",1,0.151515151515152
+"62",888833,"Streptococcus australis ATCC 700641",1,0.151515151515152
+"65",889206,"Streptococcus vestibularis ATCC 49124",1,0.151515151515152
+"66",990144,"Providencia thailandensis",1,0.151515151515152
+"67",1032488,"Neisseria shayeganii 871",1,0.151515151515152
+"69",1140003,"Enterococcus sulfureus ATCC 49903",1,0.151515151515152
+"70",1160719,"Cutibacterium granulosum DSM 20700",1,0.151515151515152
+"73",1276936,"Staphylococcus petrasii",1,0.151515151515152
+"82",1469428,"Streptococcus cameli",1,0.151515151515152
+"84",1579424,"Streptococcus azizii",1,0.151515151515152
+"85",1629334,"Caedimonas varicaedens",1,0.151515151515152
+"86",1711926,"Marinomonas algicida",1,0.151515151515152
+"87",1888195,"Streptococcus himalayensis",1,0.151515151515152
